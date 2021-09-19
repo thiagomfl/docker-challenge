@@ -2,7 +2,7 @@ version: '3'
 
 services:
 
-  app:
+  thienry/fullcycle:
     depends_on:
       - roach
     build:
